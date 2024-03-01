@@ -1,2 +1,2 @@
 
-print("Hallo, Wereld! Fenne en Kirill")
+print("Hallo, Wereld! Kirill en Kirill")
